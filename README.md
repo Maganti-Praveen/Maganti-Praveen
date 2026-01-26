@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**Maganti-Praveen/Maganti-Praveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...Hi 👋 I'm **Praveen Sai**, a final-year B.Tech CSE student and aspiring Software Engineer passionate about full-stack development, building real-world applications, and continuous learning 🚀
+Hi 👋 I'm **Praveen Sai**, a final-year B.Tech CSE student and aspiring Software Engineer passionate about full-stack development, building real-world applications, and continuous learning 🚀
 
 ---
 
@@ -79,12 +72,3 @@ I enjoy building projects that solve real-world problems and love learning by im
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Maganti-Praveen&icon=0&color=0)](https://visitcount.itsvg.in)
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
