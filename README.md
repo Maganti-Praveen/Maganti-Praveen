@@ -1,74 +1,134 @@
-Hi 👋 I'm **Praveen Sai**, a final-year B.Tech CSE student and aspiring Software Engineer passionate about full-stack development, building real-world applications, and continuous learning 🚀
+```md
+# Hi 👋 I'm Praveen Sai
+
+### Full-Stack MERN Developer | Building Scalable Web Applications & Real-Time Systems
+
+Computer Science Engineering graduate passionate about building full-stack applications, SaaS platforms, backend systems, and real-world software products using modern web technologies.
+
+Currently working as a **Software Developer Intern at Snur International LLC**, contributing to a SaaS-based Digital Business Card platform with features including premium subscriptions, QR-based sharing, analytics dashboards, customizable public profiles, and payment integration workflows.
 
 ---
 
-# 💫 About Me:
-🔭 I’m currently working on<br>
-A full-stack MERN project called **TrackMate**, a smart bus tracking system with real-time location updates for students, drivers, and admins.<br><br>
+# 🚀 About Me
 
-👯 I’m looking to collaborate on<br>
-Full-stack web applications, open-source projects, and beginner-friendly SaaS or MERN stack projects.<br><br>
-
-🤝 I’m looking for help with<br>
-System design basics, backend scalability, and improving code quality for production-ready applications.<br><br>
-
-🌱 I’m currently learning<br>
-Advanced JavaScript, React best practices, Node.js, REST APIs, and basics of cloud deployment.<br><br>
-
-💬 Ask me about<br>
-MERN stack, JavaScript, React, Node.js, MongoDB, REST APIs, ServiceNow CSA, and project development.<br><br>
-
-⚡ Fun fact<br>
-I enjoy building projects that solve real-world problems and love learning by implementing, not just watching tutorials 🚀
+- 💻 Full-Stack Developer specializing in MERN Stack
+- ⚡ Interested in backend engineering, SaaS platforms, and scalable web applications
+- 🌍 Building real-world applications with React.js, Node.js, Express.js, and MongoDB
+- 📡 Experienced with REST APIs, JWT Authentication, Socket.IO, and real-time systems
+- 🧠 Exploring AI-powered applications and modern development workflows
+- 🏆 Top 30 among 900+ participants in Shastra Competitive Coding Contest
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_maganti_sai/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maganti-praveen-sai/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@magantisai)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:magantipraveensai3@gmail.com)
+# 💼 Experience
+
+## Software Developer Intern — Snur International LLC
+**June 2026 – Present**
+
+Working on a full-stack SaaS Digital Business Card platform with:
+- Premium subscription workflows
+- QR code sharing systems
+- Analytics dashboards
+- Customizable public profiles
+- Payment integration
+- Admin dashboards
+- Authentication & protected routes
 
 ---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+# 🛠️ Featured Projects
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+## 🚍 TrackMate — Real-Time Transport Tracking System
+🔗 Live: https://maganti-praveen.github.io/TrackMate/  
+🔗 GitHub: https://github.com/Maganti-Praveen/TrackMate
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+A full-stack real-time bus tracking system developed for Ramachandra College of Engineering.
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### Features
+- Live GPS tracking
+- ETA updates
+- Socket.IO real-time synchronization
+- Role-based modules
+- Push notifications
+- SOS alerts
+- Public tracking pages
+- PWA support
 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### Tech Stack
+React.js • Node.js • Express.js • MongoDB • Socket.IO • Leaflet
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Maganti-Praveen&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Maganti-Praveen&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maganti-Praveen&theme=dark&layout=compact)
+## 📚 RCEE RIMS — Research Information Management System
+🔗 GitHub: https://github.com/Maganti-Praveen/RDMS
+
+Enterprise-style MERN platform for managing faculty research data, publications, certifications, reports, and analytics.
+
+### Features
+- Multi-role authentication
+- Analytics dashboards
+- PDF & Excel exports
+- Bulk uploads
+- Email workflows
+- Department comparison dashboards
+
+### Tech Stack
+React.js • Node.js • Express.js • MongoDB Atlas • JWT • Tailwind CSS
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Maganti-Praveen&icon=0&color=0)](https://visitcount.itsvg.in)
+# 💻 Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
+
+### Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![ExpressJS](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Render](https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)
+
+---
+
+# 📜 Certifications & Achievements
+
+- ServiceNow Certified Application Developer (CAD)
+- NPTEL — Introduction to Internet of Things
+- Top 30 among 900+ participants in Shastra Competitive Coding Contest
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maganti-praveen-sai/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome)](https://maganti-praveen.github.io)
+[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail)](mailto:magantipraveensai3@gmail.com)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Maganti-Praveen&theme=dark&hide_border=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Maganti-Praveen&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maganti-Praveen&theme=dark&layout=compact&hide_border=true)
+```
